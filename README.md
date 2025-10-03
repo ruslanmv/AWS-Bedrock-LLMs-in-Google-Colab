@@ -1,6 +1,6 @@
 # Run AWS Bedrock LLM Inference in Google Colab (Step-by-Step, Human-Friendly)
 
-If you want a fast way to try **Amazon Bedrock** models from a notebook, Google Colab is perfect: no local setup, easy package installs, and a built-in place to store secrets. Below is a clean, professional walkthrough—based directly on the notebook you provided—showing exactly how to send a prompt to **`amazon.nova-lite-v1:0`** and read back the model’s response.
+If you want a fast way to try **Amazon Bedrock** models from a notebook, Google Colab is perfect: no local setup, easy package installs, and a built-in place to store secrets. Below is a clean, professional walkthrough—based directly on the notebook  how to send a prompt to **`amazon.nova-lite-v1:0`** and read back the model’s response.
 
 ---
 
